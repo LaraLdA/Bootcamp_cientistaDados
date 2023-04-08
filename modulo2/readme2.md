@@ -4,7 +4,8 @@
 ### Trabalho e Desafio do módulo
 
 #### 1 - Trabalho
-O trabalho se baseia na exploração de dados relacionados ao preço de ações de várias empresas, por meio do arquivo **all_stocks_5yr.csv**:
+O trabalho se baseia na exploração de dados relacionados ao preço de ações de várias empresas, por meio do arquivo **all_stocks_5yr.csv** disponíveis em https://www.kaggle.com/camnugent/sandp500/:
+
 As perguntas respondidas foram:
 - Quantos registros há na planilha?
 - Quantos registros há na planilha para a ação da Apple (AAPL)? 
@@ -25,6 +26,7 @@ As perguntas respondidas foram:
 
 O Desafio foi a análise exploratória e a criação de um  modelo preditivo criado a partir de dados relacionados a ocorrência de derrame em pacientes.
 A idade, gênero, nível de glicose, se o paciente fuma ou não, foram os fatores utilizados para a previsão se o paciente terá um derrame cerebral ou não. 
+
 As perguntas respondidas foram:
 - Quantos registros há na planilha?
 - Quantas colunas existem no arquivo? Quantas são numéricas?
