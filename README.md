@@ -12,4 +12,4 @@ O bootcamp foi estruturado em 4 módulos que abrangiram:
 
 - Análise de Dados Utilizando Dashboards
 
-Será postado algumas análises realizadas durante o bootcamp.
+Aqui estão algumas análises realizadas durante o bootcamp
