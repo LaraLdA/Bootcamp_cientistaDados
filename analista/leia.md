@@ -1,4 +1,4 @@
-### Prática - modelo Random forest e de matriz confusão
+### Prática - Modelo Random Forest e uso de matriz confusão
 
 **Desafio**:
 Criação de um modelo de classificação, utilizando o algoritmo Random Forest, que seja capaz de analisar informações e identificar padrões e características-chave que indicam um alto risco de ataque cardíaco. 
